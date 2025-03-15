@@ -1,0 +1,6 @@
+{
+  "fsevents_latency": 0.05,
+  "root_files": ["package.json"],
+  "ignore_dirs": ["node_modules", ".git", "dist", ".expo", "web-build"],
+  "max_files_watched": 35000
+}
